@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Movie Review',
+  shortName: 'Movie Review',
+  description: 'Explore our in-depth analyses of the latest blockbusters, indie films, and timeless classics across all genres – from action and comedy to horror and sci-fi.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
