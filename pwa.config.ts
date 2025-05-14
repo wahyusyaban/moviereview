@@ -17,15 +17,15 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
+      name: 'Horror Movie',
+      shortName: 'Horror Movie',
+      description: 'Horror Movie',
       url: '/search/label/Horror Movie?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
+      name: 'Action Movie',
+      shortName: 'Action Movie',
+      description: 'Action Movie',
       url: '/search/label/Action Movie?utm_source=homescreen',
     },
   ],
